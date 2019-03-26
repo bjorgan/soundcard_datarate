@@ -1,0 +1,1 @@
+add_executable(arecord_collector arecord_collector.c)
